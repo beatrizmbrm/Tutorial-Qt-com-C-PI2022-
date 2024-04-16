@@ -1,0 +1,115 @@
+main {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.title {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sub-title {
+    margin-bottom: 3rem;
+
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.person {
+    
+    margin: 0.5% 0%;
+
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+    width: 100%;
+}
+
+.person-image-left {
+    flex-direction: row;
+}
+
+.person-image-right {
+    flex-direction: row-reverse;
+}
+
+.person-image {
+
+    border-radius: 10px;
+
+    width: 104px;
+    height: 104px;
+}
+
+.person-name {
+    padding: 0% 20% 0% 2%;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    height: 104px;
+
+    border-radius: 10px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.person-name-right {
+    margin-left: 1%;
+}
+
+.person-name-left {
+    margin-right: 1%;
+}
+
+.person-name-title {
+    margin-bottom: 2%;
+
+    font-weight: bold;
+}
+
+.person-name-text {
+    font-size: 1.2em;
+}
+
+.about-project {
+
+    margin: 4% 0%;
+
+    width: 70%;
+
+    padding: 4%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-radius: 10px;
+    border: 3px solid #FFD5B0;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about-project-title {
+    font-size: x-large;
+
+    font-weight: bold;
+
+    margin-bottom: 4%;
+}
+
+.about-project-text {
+    font-size: 1.2em;
+
+    margin-bottom: 4%;
+}

@@ -1,0 +1,42 @@
+header {
+    position: fixed;
+
+    top: 0;
+
+    padding: 0% 1%;
+
+    height: 72px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #ffffff;
+}
+
+.header-navigation-with-shadow {
+    box-shadow: 1px 1px 4px #dddddd;
+}
+
+.header-navigation {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-navigation-item {
+    margin: 0% 2%;
+
+    font-size: large;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color: black;
+}
+
+main {
+    margin-top: 72px;
+}

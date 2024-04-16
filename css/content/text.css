@@ -1,0 +1,33 @@
+.title {
+
+    margin-bottom: 1%;
+
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paragraph {
+
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2%;
+
+    width: 100%;
+}
+
+.code {
+
+    margin-bottom: 2%;
+
+    padding: 1% 0% 1% 1%;
+    width: 99%;
+
+    border: 1px solid #808080;
+    border-radius: 5px;
+
+    font-family: 'Consolas', 'Bitstream Vera Sans Mono', 'Courier New', monospace;
+
+    background-color: #F7F5F2;
+    color: #808080;
+}

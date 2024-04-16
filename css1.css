@@ -1,0 +1,296 @@
+
+img{
+        max-width: 100%;
+        max-height: 100%;
+}
+
+li{
+        display: inline-block;
+        margin: 20px;
+        color: black;
+ 
+}
+.menu{
+        list-style: none;
+        text-decoration: none;
+        padding: 10px 0;
+        align-items: center;
+        position: absolute;
+        width: 100%;
+        height: 23px;
+        left: 50px;
+        top: 3px;
+    
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+    
+        color: #000000;
+        }
+
+.retangulo1{
+        position: absolute;
+        width: 1349px;
+        height: 80px;
+        left: 0px;
+        top: 0px;
+    
+        background: #ffffff;
+        }
+   
+    .retangulo1 img{
+        position: absolute;
+        width: 157px;
+        height: 73px;
+        left: 20px;
+        top: 3px;
+
+    }
+    .retangulo2{
+        /* Rectangle 2 */
+        position: absolute;
+        width: 850px;
+        height: 436px;
+        left: 0px;
+        top: 80px;
+        
+        background: #FFF0D1;
+        }
+    .retangulo2 h1{
+        /* Aprenda Qt com C++! */
+        position: absolute;
+        width: 349px;
+        height: 36px;
+        left: 72px;
+        top: 120px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        
+        color: #000000;
+        }
+    .retangulo2 p{
+        /* Aqui você aprende a criar interfaces gráficas em C++ utilizando Qt. */
+        position: absolute;
+        width: 316px;
+        height: 55px;
+        left: 72px;
+        top: 180px;
+        
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        
+        color: #000000;
+    }
+    .retangulo2 a{
+        position: absolute;
+        width: 130px;
+        height: 30px;
+        left: 120px;
+        top: 280px;
+
+    }
+    .retangulo2 img{
+        position: absolute;
+        width: 850px;
+        height: 590px;
+        left: 499px;
+        top: 0px;
+        }
+    .botao{
+            /* Comece Agora */
+        position: absolute;
+        width: 140px;
+        height: 25px;
+        left: 97px;
+        top: 348px;
+        background-color: #FF886B;
+        text-decoration: none;
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 23px;
+        border-radius: 8px;
+        margin-bottom: 2.5em;
+        align-items: center;
+        
+        color: #FFFFFF;
+        }
+
+    .retangulo3{
+        /* Rectangle 3 */
+        position: absolute;
+        width: 1350px;
+        height: 396px;
+        left: 0px;
+        top: 516px;
+    
+        background: #53BEA6;
+        }
+    .retangulo3 h1{
+            /* Aprenda como... */
+        position: absolute;
+        width: 607px;
+        height: 48px;
+        left: 788px;
+        top: 59px;
+    
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+    
+        color: #000000;
+   
+    }
+    .retangulo3 p{
+        position: absolute;
+        width: 369px;
+        height: 27px;
+        left: 737px;
+        top: 105px;
+
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+
+        color: #000000;
+    }
+    .retangulo3 img{
+        position: absolute;
+        width: 400px;
+        height: 470px;
+        left: 200px;
+        top: 0px;
+    }
+    .retangulo4{
+        /* Rectangle 26 */
+        box-sizing: border-box;
+   
+        position: absolute;
+        width: 180px;
+        height: 35px;
+        left: 771px;
+        top: 680px;
+    
+        background: #53BEA6;
+        border: 1px solid #2F7D81;
+        border-radius: 100px;
+    }
+    .retangulo4 {
+        /* Criar Botões */
+        position: absolute;
+        width: 109px;
+        height: 21px;
+        left: 815px;
+        top: 699px;
+    
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 22px;
+    
+        color: #000000;
+    }
+    .retangulo5{
+    /* Rectangle 25 */
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 185px;
+        height: 35px;
+        left: 774px;
+        top: 739px;
+    
+        background: #53BEA6;
+        border: 1px solid #2F7D81;
+        border-radius: 100px;
+    }
+ 
+    .retangulo5 {
+        /* Criar Input Fields */
+        position: absolute;
+        width: 153px;
+        height: 21px;
+        left: 790px;
+        top: 746px;
+    
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+    
+        color: #000000;
+ 
+    }
+    .retangulo6{
+        /* Rectangle 27 */
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 185px;
+        height: 35px;
+        left: 774px;
+        top: 786px;
+    
+        background: #53BEA6;
+        border: 1px solid #2F7D81;
+        border-radius: 100px;
+    }
+    .retangulo6 {
+        /* Criar Checkbox */
+        position: absolute;
+        width: 136px;
+        height: 21px;
+        left: 799px;
+        top: 793px;
+    
+        font-family: 'Roboto Flex';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+    
+        color: #000000;
+    }
+ 
+    .retangulo7{
+        position: absolute;
+        width: 1349px;
+        height:150px;
+        left: 0px;
+        top: 900px;
+
+        background: #ffffff;
+        }
+
+    .retangulo7 img{
+        position: absolute;
+        width: 177px;
+        height: 82px;
+        left: 631px;
+        top: 0px;
+    }
+    .git{
+        position: absolute;
+        width: 54px;
+        height: 54px;
+        left: 60px;
+        top: 80px;
+
+    }
